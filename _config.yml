@@ -1,5 +1,9 @@
 title: DEBORAH ZICHAT TURANK
-#logo: /assets/img/headshot_circle.png
-#description: text below image
+logo: /images/headshot_circle.png
+description:
+<br><br>
++  <a href="https://www.linkedin.com/in/deborah-turank-51119b279/">view my LinkedIn prpfile</a>
 #show_downloads: true
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
++ - jekyll-remote-theme
