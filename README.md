@@ -32,9 +32,11 @@ In addition to my expertise in data analysis, i have solid understanding of prog
 ### ✈️ Collaboration
  I excel in working collaboratively with cross-functional team to translate data insights into actionable strategies. I effectively communicate complex findings to stake holders and contribute to data-driven decision making processes.
 
- ## 📚 Education
- - National Diploma, Food Technology | Kaduna Polytechnic (March 2015 - October 2017)
- - Higher National Diploma, Food Technology | Kaduna Polytechnic ( May 2018 - September 2021)
+ ### 📚 Education
+ - National Diploma
+   Food Technology | Kaduna Polytechnic (March 2015 - October 2017)
+ - Higher National Diploma
+   Food Technology | Kaduna Polytechnic ( May 2018 - September 2021)
 
 ## Contact Information
 ### 📧 Email address: zeechat143@gmail.com
