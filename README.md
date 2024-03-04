@@ -1,7 +1,7 @@
 # DATA ANALYST
 
 ## About Me
-I am Deborah Zichat Turank, an aspiring data analyst from Nigeria. I recently acquired the skill and i am eager to kick-start my career in the field. Although i'm new to tech world, my enthusiasm for numbers and solving problems drives me to excel in this dynamic field.
+I am Deborah Zichat Turank, a data analyst from Nigeria. I recently acquired the skill and i am eager to kick-start my career in the field. Although i'm new to tech world, my enthusiasm for numbers and solving problems drives me to excel in this dynamic field.
 
 During my academic journey, i immersered myself in courses on data visualization, programmimg and statistics. I have developed a solid foundation in tools like SQL, IBM SPSS, PowerBi, tableau and microsoft excel and i'm excited to apply these skills to real world projects.
 
