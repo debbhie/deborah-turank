@@ -3,7 +3,7 @@
 ## About Me
 I am Deborah Zichat Turank, a data analyst from Nigeria. I am passionate about uncovering insight from data that aid decision-making. Although i'm new to tech world, my enthusiasm for numbers and solving problems drives me to excel in this dynamic field. 
 
-My journey into the world of data analysis began with my obsession for charts and numbers, the desire to understand and interpret stories through data. I have solid foundation in data visualization, programming language such as SQL, IBM SPSS, statistics, data cleaning,powerBi, tableau and microsoft excel.
+My journey into the world of data analysis began with my obsession for charts and numbers, the desire to understand and interpret stories through data. I have solid foundation in data visualization, programming language such as SQL, IBM SPSS, statistics, data cleaning, powerBi, tableau and microsoft excel.
 
 During my internship at APPCLICK ICT ACADEMY located at Ibadan Nigeria, i worked on projects that includes querying SQL database, data cleaning on microsoft excel and data visualization on powerBi. I have also handled personal projects which includes data cleaning, exploratory data analysis, programming language (SQL) and creating visualizations to communicate insights. These experiences have reinenforced my passion for data analysis and euipped me with valuable practical skills.
 
