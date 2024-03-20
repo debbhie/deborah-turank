@@ -56,7 +56,7 @@ In addition to my expertise in data analysis, i have solid understanding of prog
    Food Technology | Kaduna Polytechnic ( May 2018 - September 2021)
    
 ## 🗞️ Certification
-Diploma in Data Anlysis from APPCLICK ACADEMY
+- Diploma in Data Anlysis from APPCLICK ACADEMY
 
    
 
