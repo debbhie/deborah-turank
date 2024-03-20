@@ -1,13 +1,30 @@
 # DATA ANALYST
 
 ## About Me
-I am Deborah Zichat Turank, a data analyst from Nigeria. I recently acquired the skill and i am eager to kick-start my career in the field. Although i'm new to tech world, my enthusiasm for numbers and solving problems drives me to excel in this dynamic field.
+I am Deborah Zichat Turank, a data analyst from Nigeria. I am passionate about uncovering insight from data that aid decision-making. Although i'm new to tech world, my enthusiasm for numbers and solving problems drives me to excel in this dynamic field. 
 
-During my academic journey, i immersered myself in courses on data visualization, programmimg and statistics. I have developed a solid foundation in tools like SQL, IBM SPSS, PowerBi, tableau and microsoft excel and i'm excited to apply these skills to real world projects.
+My journey into the world of data analysis began with my obsession for charts and numbers, the desire to understand and interpret stories through data. I have solid foundation in data visualization, programming language such as SQL, IBM SPSS, statistics, data cleaning,powerBi, tableau and microsoft excel.
 
-While i may not have professional experience yet, i've been actively engage in personal projects where i tackeled diverse dataset, conducted exploratory data analysis and created visualizations to covey insights. These experiences have honed my analytical abilities and fueled my passion for turning data into actionable insights.
+During my internship at APPCLICK ICT ACADEMY located at Ibadan Nigeria, i worked on projects that includes querying SQL database, data cleaning on microsoft excel and data visualization on powerBi. I have also handled personal projects which includes data cleaning, exploratory data analysis, programming language (SQL) and creating visualizations to communicate insights. These experiences have reinenforced my passion for data analysis and euipped me with valuable practical skills.
 
-I am eager to join a supportive team where i can learn and contribute to projects that make a difference. Lets connect and explore how we can work together to unlock the power of data.
+one major fun fact about me is that i enjoy cooking and listening to music, this act has contributed to my well-rounded approach to problem solving and collaboration.
+
+I am currrently seeking opportunities to kick start my career as a data analyst and contribute my skills to a dynamic team. I am eager to learn, grow and make positive impact through data. Let's connect and explore how we can work together to unlock the power of data.
+
+## Work Experience
+### Job Title
+Data Analyst 
+
+### Job Description
+Internship at APPCLICK ICT
+
+### Job Role
+- Utilize SQL to extract and manipulate data from databases to perform analysis and generate reports.
+- Develop and maintain dashboards and reports using Power BI to visualize key performance metrics and trends.
+- Collaborate with cross-functional teams to understand business requirements and translate them into analytical solutions.
+- Conduct exploratory data analysis to uncover insights and present findings to stakeholders in a clear and concise manner.
+- Assist in the development of data-driven strategies to optimize processes and improve business outcomes.
+- Perform quality assurance checks on data to ensure accuracy, completeness, and consistency.
 
 ## Technical Skills
 - Microsoft Excel.
@@ -32,11 +49,16 @@ In addition to my expertise in data analysis, i have solid understanding of prog
 ### ✈️ Collaboration
  I excel in working collaboratively with cross-functional team to translate data insights into actionable strategies. I effectively communicate complex findings to stake holders and contribute to data-driven decision making processes.
  
-## Education
+## 📚 Education
  - National Diploma
    Food Technology | Kaduna Polytechnic (March 2015 - October 2017)
  - Higher National Diploma
    Food Technology | Kaduna Polytechnic ( May 2018 - September 2021)
+   
+## 🗞️ Certification
+Diploma in Data Anlysis from APPCLICK ACADEMY
+
+   
 
 ## Contact Information
 ### 📧 Email address: zeechat143@gmail.com
