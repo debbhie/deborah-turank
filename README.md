@@ -3,9 +3,9 @@
 ## About Me
 I am Deborah Zichat Turank, a data analyst from Nigeria. I am passionate about uncovering insight from data that aid decision-making. Although i'm new to tech world, my enthusiasm for numbers and solving problems drives me to excel in this dynamic field. 
 
-My journey into the world of data analysis began with my obsession for charts and numbers, the desire to understand and interpret stories through data. I have solid foundation in data visualization, programming language such as SQL, IBM SPSS, statistics, data cleaning, powerBi, tableau and microsoft excel.
+My journey into the world of data analysis began with my obsession for charts and numbers, the desire to understand and interpret stories through data. I have solid foundation in programming language such as SQL, data visualization, data cleaning, powerBi, tableau, microsoft excel, IBM SPSS and statistics.
 
-During my internship at APPCLICK ICT ACADEMY located at Ibadan Nigeria, i worked on projects that includes querying SQL database, data cleaning on microsoft excel and data visualization on powerBi. I have also handled personal projects which includes data cleaning, exploratory data analysis, programming language (SQL) and creating visualizations to communicate insights. These experiences have reinenforced my passion for data analysis and euipped me with valuable practical skills.
+During my internship at APPCLICK ICT ACADEMY located at Ibadan Nigeria, i worked on projects that includes querying SQL database, data cleaning on microsoft excel and data visualization on powerBi. I have also handled personal projects which includes data cleaning, exploratory data analysis, programming language (SQL) and creating visualizations to communicate insights. These experiences have reinenforced my passion for data analysis and eqipped me with valuable practical skills.
 
 one major fun fact about me is that i enjoy cooking and listening to music, this act has contributed to my well-rounded approach to problem solving and collaboration.
 
@@ -35,10 +35,10 @@ Internship at APPCLICK ICT
 
 ## My Expertise
 ###  📊 Data Analytics
-  I possess a strong foundation in data cleaning, manipulation and visualization. I am proficient in using tools such as excel, sql and tableau to extract insight from complex data sets.
+  I possess a strong foundation in data cleaning, manipulation and visualization. I am proficient in using tools such as excel, sql and powerBI to extract insight from complex data sets.
   
 ### 💹 Data Visualization
-I have great insight for visualizing data in a clear manner. I am proficient in creating insightful charts and interactive dash boards using tools like Tableau and powerBI.
+I have great insight for visualizing data in a clear manner. I am proficient in creating insightful charts and interactive dash boards using tools like Tableau, powerBI and microsoft excel.
 
 ### 🎤 Problem solving
 I thrive in tackling challenging problems and finding solutions through data analysis. My approach to each project is logical and with a structured mindset, breaking down complex problems into manageable tasks to deliver into actionable results.
