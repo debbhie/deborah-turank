@@ -46,9 +46,8 @@ As I continue to grow in the tech space, I am actively seeking opportunities to 
 - Worked with real-world datasets sourced by the company, enhancing data analytics skills and contributing to quality improvement efforts.
 - Gained exposure to diverse datasets across multiple sectors, including private, public, and consumer industries, equipping me with a broad perspective on data analysis across various domains.
 
-## Technical Skills
-Technical Skills: 
-Python | Data visualization | SQL | Tableau | Power Bi | Microsoft Excel | Insights | Reports | Problem solver
+## Skills 
+Python, Data visualization, SQL, Tableau, Power Bi, Microsoft Excel, Insights, Reports, Problem solver, critical thinker, Team goals oriented and collaborative.
 
 ## EXPERTISE TECHNOLOGIES
 ### Python:
