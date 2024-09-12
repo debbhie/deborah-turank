@@ -1,15 +1,20 @@
-# DATA ANALYST
+# DATA ANALYST | PYTHON EXPERT
 
 ## About Me
-I am Deborah Zichat Turank, a data analyst from Nigeria. I am passionate about uncovering insight from data that aid decision-making. Although i'm new to tech world, my enthusiasm for numbers and solving problems drives me to excel in this dynamic field. 
+I am Deborah Zichat Turank, a data analyst from Nigeria.  I’m skilled Data Analyst with extensive hands-on experience working with real-world datasets during my internships. I specialize in data visualization, big data analysis, and the use of Python to explore large datasets, often with millions of records. My skillset spans across industries, making me adept at tackling challenges in both the public and private sectors as well as consumer-focused areas.
+I am highly proficient in:
+Python for exploring and analyzing large datasets.
+SQL for efficient querying of databases.
+Tableau and PowerBI for creating impactful visualizations.
+Microsoft Excel for detailed analysis and reporting.
+My technical expertise aligns with my drive for continuous growth and achievement.
 
-My journey into the world of data analysis began with my obsession for charts and numbers, the desire to understand and interpret stories through data. I have solid foundation in programming language such as SQL, data visualization, data cleaning, powerBi, tableau, microsoft excel, IBM SPSS and statistics.
+Beyond data analysis, I am a passionate advocate for environmental sustainability, specifically focusing on waste reduction, reuse, and recycling. I’ve had the privilege of speaking to audiences across various organizations, sharing insights on the value of waste management and its critical role in public health and environmental conservation. Leveraging my data analysis skills, I’ve conducted research on the impact of plastic waste on human health, particularly when improperly disposed of and contaminating marine environments.
 
-During my internship at APPCLICK ICT ACADEMY located at Ibadan Nigeria, i worked on projects that includes querying SQL database, data cleaning on microsoft excel and data visualization on powerBi. I have also handled personal projects which includes data cleaning, exploratory data analysis, programming language (SQL) and creating visualizations to communicate insights. These experiences have reinenforced my passion for data analysis and eqipped me with valuable practical skills.
+I am also committed to empowering women and girls to pursue careers in data analysis. My mission is to help others cultivate a research mindset, build rewarding careers, and excel in the tech industry. I’ve contributed to organizations like Evolufyafrica and the Provident Green Club of Lagos, supporting initiatives that align with my values.
 
-one major fun fact about me is that i enjoy cooking and listening to music, this act has contributed to my well-rounded approach to problem solving and collaboration.
+As I continue to grow in the tech space, I am actively seeking opportunities to expand my skill set and take on challenges that will drive my personal and professional development. I am eager to bring my expertise to a company that values innovation and growth.
 
-I am currrently seeking opportunities to kick start my career as a data analyst and contribute my skills to a dynamic team. I am eager to learn, grow and make positive impact through data. Let's connect and explore how we can work together to unlock the power of data.
 
 ## Work Experience
 ### Job Title
@@ -19,12 +24,25 @@ Data Analyst
 Internship at APPCLICK ICT
 
 ### Job Role
-- Utilize SQL to extract and manipulate data from databases to perform analysis and generate reports.
-- Develop and maintain dashboards and reports using Power BI to visualize key performance metrics and trends.
-- Collaborate with cross-functional teams to understand business requirements and translate them into analytical solutions.
-- Conduct exploratory data analysis to uncover insights and present findings to stakeholders in a clear and concise manner.
-- Assist in the development of data-driven strategies to optimize processes and improve business outcomes.
-- Perform quality assurance checks on data to ensure accuracy, completeness, and consistency.
+Job Title: Data Analyst Intern
+Company: Appclick ICT Academy
+Date: March - April 2024
+Job Description:
+- Utilized SQL to query large datasets from the company’s database, extracting critical insights on client details, which contributed to improving company growth.
+- Integrated three datasets by creating new data entries, enabling the identification of top customers across multiple applications, leading to improved customer targeting and service delivery.
+- Achieved the "Best Intern Students" award for outstanding dedication and contribution to the company, with a recorded commitment rate of 95%.
+- Employed Power Query in Excel to clean and organize datasets, ensuring data clarity for accurate analysis.
+- Leveraged Microsoft Excel functions to perform calculations, providing valuable insights and improving data comprehension.
+- Created interactive data visualizations using Power BI and Tableau, delivering clear operational insights that supported informed decision-making.
+- Applied IBM SPSS (Statistics) to perform regression analysis and identify trends, patterns, and correlations, offering strategic insights for business growth.
+- Collaborated with the Data Analyst team to provide actionable insights, driving customer success and supporting key business objectives.
+
+Job Title: Data Analyst Intern
+Company: Cognorise Infotech
+
+Utilized Python (Pandas) to analyze large datasets, providing valuable insights into datasets containing millions of records.
+Worked with real-world datasets sourced by the company, enhancing data analytics skills and contributing to quality improvement efforts.
+Gained exposure to diverse datasets across multiple sectors, including private, public, and consumer industries, equipping me with a broad perspective on data analysis across various domains.
 
 ## Technical Skills
 - Microsoft Excel.
