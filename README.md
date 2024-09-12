@@ -17,17 +17,13 @@ As I continue to grow in the tech space, I am actively seeking opportunities to 
 
 
 ## Work Experience
-### Job Title
-Data Analyst 
+### Job Title: Data Analyst Intern
 
-### Job Description
-Internship at APPCLICK ICT
+### Company: Appclick ICT Academy
 
-### Job Role
-Job Title: Data Analyst Intern
-Company: Appclick ICT Academy
-Date: March - April 2024
-Job Description:
+### Date: March - April 2024
+
+### Job Description:
 - Utilized SQL to query large datasets from the company’s database, extracting critical insights on client details, which contributed to improving company growth.
 - Integrated three datasets by creating new data entries, enabling the identification of top customers across multiple applications, leading to improved customer targeting and service delivery.
 - Achieved the "Best Intern Students" award for outstanding dedication and contribution to the company, with a recorded commitment rate of 95%.
@@ -36,37 +32,56 @@ Job Description:
 - Created interactive data visualizations using Power BI and Tableau, delivering clear operational insights that supported informed decision-making.
 - Applied IBM SPSS (Statistics) to perform regression analysis and identify trends, patterns, and correlations, offering strategic insights for business growth.
 - Collaborated with the Data Analyst team to provide actionable insights, driving customer success and supporting key business objectives.
+  
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Job Title: Data Analyst Intern
-Company: Cognorise Infotech
+### Job Title: Data Analyst Intern
 
-Utilized Python (Pandas) to analyze large datasets, providing valuable insights into datasets containing millions of records.
-Worked with real-world datasets sourced by the company, enhancing data analytics skills and contributing to quality improvement efforts.
-Gained exposure to diverse datasets across multiple sectors, including private, public, and consumer industries, equipping me with a broad perspective on data analysis across various domains.
+### Company: Cognorise Infotech
+
+### Date: July - August 2024
+
+### Job Description:
+- Utilized Python (Pandas) to analyze large datasets, providing valuable insights into datasets containing millions of records.
+- Worked with real-world datasets sourced by the company, enhancing data analytics skills and contributing to quality improvement efforts.
+- Gained exposure to diverse datasets across multiple sectors, including private, public, and consumer industries, equipping me with a broad perspective on data analysis across various domains.
 
 ## Technical Skills
-- Microsoft Excel.
-- SQL
-- PowerBi
-- Tableau
-- IBM SPSS
+Technical Skills: 
+Python | Data visualization | SQL | Tableau | Power Bi | Microsoft Excel | Insights | Reports | Problem solver
 
-## My Expertise
-###  📊 Data Analytics
-  I possess a strong foundation in data cleaning, manipulation and visualization. I am proficient in using tools such as excel, sql and powerBI to extract insight from complex data sets.
+## EXPERTISE TECHNOLOGIES
+### Python:
+- Pandas: Data manipulation and analysis.
+- NumPy: Numerical computations.
+- Matplotlib & Seaborn: Data visualization.
+- Jupyter Notebooks: Interactive development and data analysis environment.
+
+### Power Bi:
+- Power Query: Data transformation and loading.
+- DAX (Data Analysis Expressions): Data modeling and calculations.
+- Azure: Power BI integrates with Azure for enhanced data processing, especially when dealing with big data.
   
-### 💹 Data Visualization
-I have great insight for visualizing data in a clear manner. I am proficient in creating insightful charts and interactive dash boards using tools like Tableau, powerBI and microsoft excel.
+### Microsoft Excel:
+- Power Query: Data connection and transformation.
+- Power Pivot: Data modeling for large datasets.
+- VBA (Visual Basic for Applications): Automating repetitive tasks and creating macros.
+- PivotTables and PivotCharts: Data summarization and analysis.
+- Solver and Data Analysis ToolPak: Advanced statistical and optimization analysis.
+- Excel Add-ins: Tools like "Analysis Toolpak" and third-party integrations for specialized functions.
 
-### 🎤 Problem solving
-I thrive in tackling challenging problems and finding solutions through data analysis. My approach to each project is logical and with a structured mindset, breaking down complex problems into manageable tasks to deliver into actionable results.
+### SQL:
+ Relational Database Management Systems (RDBMS):
+- MySQL: Open-source RDBMS for structured data.
+  MySQL IDES:
+- MySQL Workbench: SQL development and administration tool for MySQL.
 
-### 🛠️ Technical Skill
-In addition to my expertise in data analysis, i have solid understanding of programming language such as sql as well as experience with data querying and machine learning algorithms.
+### Tableau:
+- Tableau Desktop: Primary tool for building visualizations and dashboards.
+- Tableau Server: On-premise platform for sharing and collaboration.
+- Tableau Prep: Data preparation and cleaning tool.
 
-### ✈️ Collaboration
- I excel in working collaboratively with cross-functional team to translate data insights into actionable strategies. I effectively communicate complex findings to stake holders and contribute to data-driven decision making processes.
- 
+
 ## 📚 Education
  - National Diploma
    Food Technology | Kaduna Polytechnic (March 2015 - October 2017)
@@ -74,9 +89,8 @@ In addition to my expertise in data analysis, i have solid understanding of prog
    Food Technology | Kaduna Polytechnic ( May 2018 - September 2021)
    
 ## 🗞️ Certification
-- Diploma in Data Anlysis from APPCLICK ACADEMY
-
-   
+- Certificate of completion with credit in Data Anlysis from APPCLICK ACADEMY
+- Certification of Achievement from CONGNORISE INFOTECH (CR1T11CTF044)
 
 ## Contact Information
 ### 📧 Email address: zeechat143@gmail.com
