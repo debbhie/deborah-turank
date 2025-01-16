@@ -1,38 +1,38 @@
-# DATA ANALYST | PYTHON EXPERT
+# DATA ANALYST 
 
 ## About Me
-I am Deborah Zichat Turank, a data analyst from Nigeria.  I’m skilled Data Analyst with extensive hands-on experience working with real-world datasets during my internships. I specialize in data visualization, big data analysis, and the use of Python to explore large datasets, often with millions of records. My skillset spans across industries, making me adept at tackling challenges in both the public and private sectors as well as consumer-focused areas.
+I am Deborah Zichat Turank, a data analyst from Nigeria, with extensive experience in analyzing real-world datasets. Over the course of my career, I have specialized in data visualization, big data analysis, and using Python to explore large datasets with millions of records. My work spans various industries, allowing me to tackle challenges in both the public and private sectors, as well as consumer-focused areas.
+         In addition to my technical expertise, I  have hands-on experience working with an agency for YouTube gamers. I extracted datasets from top YouTubers and conducted competitive analysis using client data, which provided valuable insights for improving our clients' performance.
+
 I am highly proficient in:
 Python for exploring and analyzing large datasets.
 SQL for efficient querying of databases.
-Tableau and PowerBI for creating impactful visualizations.
+Tableau and PowerBI for impactful visualizations.
 Microsoft Excel for detailed analysis and reporting.
-My technical expertise aligns with my drive for continuous growth and achievement.
+My technical skills are complemented by a passion for continuous learning and achievement, driving me to stay at the forefront of data analytics.
 
 Beyond data analysis, I am a passionate advocate for environmental sustainability, specifically focusing on waste reduction, reuse, and recycling. I’ve had the privilege of speaking to audiences across various organizations, sharing insights on the value of waste management and its critical role in public health and environmental conservation. Leveraging my data analysis skills, I’ve conducted research on the impact of plastic waste on human health, particularly when improperly disposed of and contaminating marine environments.
 
 I am also committed to empowering women and girls to pursue careers in data analysis. My mission is to help others cultivate a research mindset, build rewarding careers, and excel in the tech industry. I’ve contributed to organizations like Evolufyafrica and the Provident Green Club of Lagos, supporting initiatives that align with my values.
 
-As I continue to grow in the tech space, I am actively seeking opportunities to expand my skill set and take on challenges that will drive my personal and professional development. I am eager to bring my expertise to a company that values innovation and growth.
+As I continue to advance in the tech space, I am now focused on leveraging my real-world experience to take on more complex data-driven challenges. I am constantly seeking opportunities to expand my skill set and make a meaningful impact. With my hands-on experience and expertise, I am eager to contribute to innovative companies that prioritize growth, data-driven insights, and cutting-edge solutions.
 
 
 ## Work Experience
-### Job Title: Data Analyst Intern
+### Job Title: Content Insight Analyst
 
-### Company: Appclick ICT Academy
+### Company: Flikercrew Agency
 
-### Date: March - April 2024
+### Date: November 2024 (Freelancing)
+
+### Location: United Kingdom (Remote)
 
 ### Job Description:
-- Utilized SQL to query large datasets from the company’s database, extracting critical insights on client details, which contributed to improving company growth.
-- Integrated three datasets by creating new data entries, enabling the identification of top customers across multiple applications, leading to improved customer targeting and service delivery.
-- Achieved the "Best Intern Students" award for outstanding dedication and contribution to the company, with a recorded commitment rate of 95%.
-- Employed Power Query in Excel to clean and organize datasets, ensuring data clarity for accurate analysis.
-- Leveraged Microsoft Excel functions to perform calculations, providing valuable insights and improving data comprehension.
-- Created interactive data visualizations using Power BI and Tableau, delivering clear operational insights that supported informed decision-making.
-- Applied IBM SPSS (Statistics) to perform regression analysis and identify trends, patterns, and correlations, offering strategic insights for business growth.
-- Collaborated with the Data Analyst team to provide actionable insights, driving customer success and supporting key business objectives.
-  
+- Collected and analyzed data from YouTube live streams to derive actionable insights.
+- Scraped and gathered data from top YouTube gamers for competitive analysis, enabling our clients to understand the types of gaming content successful YouTubers used to grow their channels.
+- Leveraged competitive analysis to help a client grow their YouTube channel from 15,000 to 28,000 subscribers in under two months.
+- Conducted predictive analysis on content to forecast potential virality, allowing for strategic content planning and optimization.
+- Scraped youTubers channel ID used in accessing data from youTuber's channel.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Job Title: Data Analyst Intern
@@ -40,6 +40,8 @@ As I continue to grow in the tech space, I am actively seeking opportunities to 
 ### Company: Cognorise Infotech
 
 ### Date: July - August 2024
+
+### Location: India (Remote)
 
 ### Job Description:
 - Utilized Python (Pandas) to analyze large datasets, providing valuable insights into datasets containing millions of records.
@@ -79,6 +81,10 @@ Python, Data visualization, SQL, Tableau, Power Bi, Microsoft Excel, Insights, R
 - Tableau Desktop: Primary tool for building visualizations and dashboards.
 - Tableau Server: On-premise platform for sharing and collaboration.
 - Tableau Prep: Data preparation and cleaning tool.
+
+### Data Scraping:
+- Google Cloud Console: YouTube Data API
+- Python: googleapiclient
 
 
 ## 📚 Education
