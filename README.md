@@ -87,10 +87,10 @@ Python, Data visualization, SQL, Tableau, Power Bi, Microsoft Excel, Insights, R
 
 
 ## 📚 Education
- - National Diploma
-   Food Technology | Kaduna Polytechnic (March 2015 - October 2017)
- - Higher National Diploma
-   Food Technology | Kaduna Polytechnic ( May 2018 - September 2021)
+- School: Kaduna Polytechnic
+- Course Studied: Food Technology
+- Grade: Upper Credit(Second Class Upper)
+
    
 ## 🗞️ Certification
 - Certificate of completion with credit in Data Anlysis from APPCLICK ACADEMY
