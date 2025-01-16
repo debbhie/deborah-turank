@@ -32,7 +32,7 @@ As I continue to advance in the tech space, I am now focused on leveraging my re
 - Scraped and gathered data from top YouTube gamers for competitive analysis, enabling our clients to understand the types of gaming content successful YouTubers used to grow their channels.
 - Leveraged competitive analysis to help a client grow their YouTube channel from 15,000 to 28,000 subscribers in under two months.
 - Conducted predictive analysis on content to forecast potential virality, allowing for strategic content planning and optimization.
-- Scraped channel IDfrom youTube gamers which are used for extracting data.
+- Scraped channel ID from youTube gamers which are used for extracting data.
 
 ### Job Title: Data Analyst Intern
 
