@@ -60,7 +60,7 @@ As I continue to grow in my career, I am constantly seeking opportunities that a
 - Gained exposure to diverse datasets across multiple sectors, including private, public, and consumer industries, equipping me with a broad perspective on data analysis across various domains.
 
 ## Skills 
-Python, Data visualization, SQL, Tableau, Power Bi, Microsoft Excel, Insights, Reports, Problem solver, critical thinker, Team goals oriented and collaborative.
+Python, Data visualization, SQL, Tableau, Power Bi, Microsoft Excel, Insights, Reports, Problem solver, critical thinker, Team goals oriented, collaborative, great communication and interpretation.
 
 ## EXPERTISE TECHNOLOGIES
 ### Python:
