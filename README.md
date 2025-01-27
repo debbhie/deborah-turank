@@ -16,14 +16,15 @@ I design visually compelling, interactive dashboards tailored specifically to yo
 ### Data Analysis and Strategy:
 I go beyond surface-level insights to provide in-depth, comprehensive analysis that supports strategic planning. Using advanced analytical techniques, I help you identify patterns, forecast future trends, and gain a clear understanding of your data. Based on these insights, I formulate strategies that are aligned with your business objectives, helping you make well-informed decisions that drive long-term success.
 
+
 Beyond data analysis, I am a passionate advocate for environmental sustainability, specifically focusing on waste reduction, reuse, and recycling. I’ve had the privilege of speaking to audiences across various organizations, sharing insights on the value of waste management and its critical role in public health and environmental conservation. Leveraging my data analysis skills, I’ve conducted research on the impact of plastic waste on human health, particularly when improperly disposed of and contaminating marine environments.
 
-Key Highlights of My Experience:
-Data-Driven Insights for YouTube Content Creators: I worked closely with an agency for YouTube gamers, where I extracted datasets from top YouTubers and performed competitive analysis. Through in-depth analysis, I identified critical content trends such as the optimal posting times, content types that resonate with audiences, and strategies for driving engagement. These insights directly contributed to measurable improvements in client performance.
+### Key Highlights of My Experience:
+* Data-Driven Insights for YouTube Content Creators: I worked closely with an agency for YouTube gamers, where I extracted datasets from top YouTubers and performed competitive analysis. Through in-depth analysis, I identified critical content trends such as the optimal posting times, content types that resonate with audiences, and strategies for driving engagement. These insights directly contributed to measurable improvements in client performance.
 
-TikTok Platform Growth: I applied my expertise in data analytics to grow my own TikTok platform from the ground up, reaching nearly 10,000 followers in just 3 months. This success was driven by deep analysis of user engagement patterns and the development of a data-informed content strategy that resonated with my audience.
+* TikTok Platform Growth: I applied my expertise in data analytics to grow my own TikTok platform from the ground up, reaching nearly 10,000 followers in just 3 months. This success was driven by deep analysis of user engagement patterns and the development of a data-informed content strategy that resonated with my audience.
 
-Recognition: In 2025, I was honored to be nominated as one of the top Data Analysts by Martech Africa and Yournotify, a recognition that underscores my dedication to excellence in the data space.
+* Recognition: In 2025, I was honored to be nominated as one of the top Data Analysts by Martech Africa and Yournotify, a recognition that underscores my dedication to excellence in the data space.
 
 As I continue to grow in my career, I am constantly seeking opportunities that allow me to further expand my skill set, take on exciting challenges, and collaborate with organizations that value innovation, sustainability, and growth. If you're looking for a data-driven professional who can deliver insights that make a difference, let’s connect!
 
