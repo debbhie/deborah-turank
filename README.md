@@ -6,13 +6,14 @@ As a skilled Data Analyst, I bridge the gap between raw data and meaningful busi
 My approach is rooted in clear communication, and I aim to empower business leaders by making data approachable, visual, and easy to understand. Whether you need your data cleaned, presented in an interactive dashboard, or analyzed for strategic decision-making, I can help you derive insights and solutions that drive measurable results.
 
 Here’s what I offer:
-Data Cleaning:
+
+### Data Cleaning:
 I transform messy, unstructured data into clean, organized datasets that are ready for analysis. By removing inconsistencies, correcting inaccuracies, and formatting your data properly, I ensure it’s easy to work with and analyze. This process allows you to focus on insights rather than data issues, speeding up decision-making and preventing costly mistakes.
 
-Custom and Interactive Dashboards:
+### Custom and Interactive Dashboards:
 I design visually compelling, interactive dashboards tailored specifically to your business needs. My dashboards are built with your key metrics in mind, offering real-time insights into performance and trends. Whether you need to track KPIs, monitor business processes, or predict future outcomes, my dashboards provide a dynamic view of your data, making it easy for you and your team to act quickly and efficiently.
 
-Data Analysis and Strategy:
+### Data Analysis and Strategy:
 I go beyond surface-level insights to provide in-depth, comprehensive analysis that supports strategic planning. Using advanced analytical techniques, I help you identify patterns, forecast future trends, and gain a clear understanding of your data. Based on these insights, I formulate strategies that are aligned with your business objectives, helping you make well-informed decisions that drive long-term success.
 
 Beyond data analysis, I am a passionate advocate for environmental sustainability, specifically focusing on waste reduction, reuse, and recycling. I’ve had the privilege of speaking to audiences across various organizations, sharing insights on the value of waste management and its critical role in public health and environmental conservation. Leveraging my data analysis skills, I’ve conducted research on the impact of plastic waste on human health, particularly when improperly disposed of and contaminating marine environments.
