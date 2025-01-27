@@ -111,7 +111,7 @@ Python, Data visualization, SQL, Tableau, Power Bi, Microsoft Excel, Insights, R
 ## Contact Information
 ### 📧 Email address: zeechat143@gmail.com
 ### 📞 Phone: +234816
-### 🔗 [LinkedIn](linkedin.com/in/deborah-turank-51119b279)
+### 🔗 [LinkedIn](https://www.linkedin.com/in/deborah-turank-51119b279/)
 
 
 
