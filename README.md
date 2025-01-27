@@ -1,21 +1,31 @@
 # DATA ANALYST 
 
 ## About Me
-I am Deborah Zichat Turank, a data analyst from Nigeria, with extensive experience in analyzing real-world datasets. Over the course of my career, I have specialized in data visualization, big data analysis, and using Python to explore large datasets with millions of records. My work spans various industries, allowing me to tackle challenges in both the public and private sectors, as well as consumer-focused areas.
-         In addition to my technical expertise, I  have hands-on experience working with an agency for YouTube gamers. I extracted datasets from top YouTubers and conducted competitive analysis using client data, which provided valuable insights for improving our clients' performance.
+In today's world, data is the foundation of informed decision-making, but raw numbers alone don’t create impact understanding and interpreting them does.
+As a skilled Data Analyst, I bridge the gap between raw data and meaningful business outcomes. I have a deep understanding of how to interpret, analyze, and visualize data to uncover hidden trends and provide actionable insights that help businesses grow and achieve their goals.
+My approach is rooted in clear communication, and I aim to empower business leaders by making data approachable, visual, and easy to understand. Whether you need your data cleaned, presented in an interactive dashboard, or analyzed for strategic decision-making, I can help you derive insights and solutions that drive measurable results.
 
-I am highly proficient in:
-Python for exploring and analyzing large datasets.
-SQL for efficient querying of databases.
-Tableau and PowerBI for impactful visualizations.
-Microsoft Excel for detailed analysis and reporting.
-My technical skills are complemented by a passion for continuous learning and achievement, driving me to stay at the forefront of data analytics.
+Here’s what I offer:
+Data Cleaning:
+I transform messy, unstructured data into clean, organized datasets that are ready for analysis. By removing inconsistencies, correcting inaccuracies, and formatting your data properly, I ensure it’s easy to work with and analyze. This process allows you to focus on insights rather than data issues, speeding up decision-making and preventing costly mistakes.
+
+Custom and Interactive Dashboards:
+I design visually compelling, interactive dashboards tailored specifically to your business needs. My dashboards are built with your key metrics in mind, offering real-time insights into performance and trends. Whether you need to track KPIs, monitor business processes, or predict future outcomes, my dashboards provide a dynamic view of your data, making it easy for you and your team to act quickly and efficiently.
+
+Data Analysis and Strategy:
+I go beyond surface-level insights to provide in-depth, comprehensive analysis that supports strategic planning. Using advanced analytical techniques, I help you identify patterns, forecast future trends, and gain a clear understanding of your data. Based on these insights, I formulate strategies that are aligned with your business objectives, helping you make well-informed decisions that drive long-term success.
 
 Beyond data analysis, I am a passionate advocate for environmental sustainability, specifically focusing on waste reduction, reuse, and recycling. I’ve had the privilege of speaking to audiences across various organizations, sharing insights on the value of waste management and its critical role in public health and environmental conservation. Leveraging my data analysis skills, I’ve conducted research on the impact of plastic waste on human health, particularly when improperly disposed of and contaminating marine environments.
 
-I am also committed to empowering women and girls to pursue careers in data analysis. My mission is to help others cultivate a research mindset, build rewarding careers, and excel in the tech industry. I’ve contributed to organizations like Evolufyafrica and the Provident Green Club of Lagos, supporting initiatives that align with my values.
+Key Highlights of My Experience:
+Data-Driven Insights for YouTube Content Creators: I worked closely with an agency for YouTube gamers, where I extracted datasets from top YouTubers and performed competitive analysis. Through in-depth analysis, I identified critical content trends such as the optimal posting times, content types that resonate with audiences, and strategies for driving engagement. These insights directly contributed to measurable improvements in client performance.
 
-As I continue to advance in the tech space, I am now focused on leveraging my real-world experience to take on more complex data-driven challenges. I am constantly seeking opportunities to expand my skill set and make a meaningful impact. With my hands-on experience and expertise, I am eager to contribute to innovative companies that prioritize growth, data-driven insights, and cutting-edge solutions.
+TikTok Platform Growth: I applied my expertise in data analytics to grow my own TikTok platform from the ground up, reaching nearly 10,000 followers in just 3 months. This success was driven by deep analysis of user engagement patterns and the development of a data-informed content strategy that resonated with my audience.
+
+Recognition: In 2025, I was honored to be nominated as one of the top Data Analysts by Martech Africa and Yournotify, a recognition that underscores my dedication to excellence in the data space.
+
+As I continue to grow in my career, I am constantly seeking opportunities that allow me to further expand my skill set, take on exciting challenges, and collaborate with organizations that value innovation, sustainability, and growth. If you're looking for a data-driven professional who can deliver insights that make a difference, let’s connect!
+
 
 
 ## Work Experience
