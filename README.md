@@ -109,7 +109,7 @@ Python, Data visualization, SQL, Tableau, Power Bi, Microsoft Excel, Insights, R
 - Certification of Achievement from CONGNORISE INFOTECH (CR1T11CTF044)
 
 ## Contact Information
-### 📧 [Email address](zeechat143@gmail.com)
+### 📧 [Email address](www.zeechat143@gmail.com)
 ### 📞 Phone: +234816
 ### 🔗LinkedIn: Deborah (Zichat) Turank
 
