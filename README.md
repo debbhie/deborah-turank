@@ -42,9 +42,9 @@ As I continue to grow in my career, I am constantly seeking opportunities that a
 
 ### Job Description:
 - Cleaned and processed a dataset containing 87% null values, applying advanced statistical techniques to impute missing numerical data, ensuring data integrity, and enhancing the accuracy of the analysis. Detected and addressed patterns in categorical data to uncover significant relationships, further refining data quality for decision-making.
--  Conducted a comprehensive real-time analysis on flight times, identifying key flights contributing to delays and implementing strategic recommendations that resulted in a 65% reduction in passenger delays across multiple routes.
--   Analyzed aircraft clustering patterns and areas of high traffic congestion, using data-driven insights to optimize air traffic flow, leading to a 42% reduction in airspace congestion and improved operational efficiency.
-- Performed a thorough analysis of flight altitude, speed, and path variation by aircraft type, providing actionable insights that improved speed times by 52%, leading to more efficient flight routes and reduced overall travel time.
+- Conducted a comprehensive real-time analysis on flight times, identifying key flights contributing to delays and implementing strategic recommendations that resulted in a 65% reduction in passenger delays across multiple routes.
+- Analyzed aircraft clustering patterns and areas of high traffic congestion, using data-driven insights to optimize air traffic flow, leading to a 42% reduction in airspace congestion and improved operational efficiency.
+- performed a analysis of flight altitude, speed, and path variation by aircraft type, providing actionable insights that improved speed times by 52%, leading to more efficient flight routes and reduced overall travel time.
 
 
 ### Job Title: Content Insight Analyst
