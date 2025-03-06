@@ -1,4 +1,4 @@
-# DATA ANALYST | DASHBOARD SPECIALIST
+# DATA ANALYST | BUSINESS INTELLIGENCE ANALYST
 
 ## About Me
 In today's world, data is the foundation of informed decision-making, but raw numbers alone don’t create impact understanding and interpreting them does.
