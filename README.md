@@ -31,36 +31,57 @@ As I continue to grow in my career, I am constantly seeking opportunities that a
 
 
 ## Work Experience
-### Job Title: Content Insight Analyst
 
-### Company: Flikercrew Agency
+### Job Title: Data Analyst 
 
-### Date: November 2024 (Freelancing)
+### UPWork (Freelance)
+
+### Date: January 2025- Febuary 2025
 
 ### Location: United Kingdom (Remote)
 
 ### Job Description:
-- Collected and analyzed data from YouTube live streams to derive actionable insights.
-- Scraped and gathered data from top YouTube gamers for competitive analysis, enabling our clients to understand the types of gaming content successful YouTubers used to grow their channels.
-- Leveraged competitive analysis to help a client grow their YouTube channel from 15,000 to 28,000 subscribers in under two months.
-- Conducted predictive analysis on content to forecast potential virality, allowing for strategic content planning and optimization.
-- Scraped channel ID from youTube gamers which are used for extracting data.
+- Cleaned and processed a dataset containing 87% null values, applying advanced statistical techniques to impute missing numerical data, ensuring data integrity, and enhancing the accuracy of the analysis. Detected and addressed patterns in categorical data to uncover significant relationships, further refining data quality for decision-making.
+-  Conducted a comprehensive real-time analysis on flight times, identifying key flights contributing to delays and implementing strategic recommendations that resulted in a 65% reduction in passenger delays across multiple routes.
+-   Analyzed aircraft clustering patterns and areas of high traffic congestion, using data-driven insights to optimize air traffic flow, leading to a 42% reduction in airspace congestion and improved operational efficiency.
+-    Performed a thorough analysis of flight altitude, speed, and path variation by aircraft type, providing actionable insights that improved speed times by 52%, leading to more efficient flight routes and reduced overall travel time.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Job Title: Content Insight Analyst
+
+### Company: Flikercrew Agency
+
+### Date: August 2024 - January 2025 (Freelance)
+
+### Location: United Kingdom (Remote)
+
+### Job Description:
+- Scraped, gathered, and collected data from YouTube live streams using APIs, extracting detailed performance metrics and trends to provide data-driven insights for optimizing client strategies and decision-making.
+- Performed in-depth analysis of content performance, identifying critical factors such as optimal posting times, high-engagement content types, and top-performing video games that drove the highest viewership and audience retention.
+- Collected and analyzed performance data from top YouTube gamers, conducting a comprehensive comparative analysis with client-specific metrics to evaluate positioning and identify opportunities for improvement.
+- Conducted a thorough competitive analysis of top YouTube gamers, generating insights that helped the client grow their channel from 15,000 to 28,000 subscribers within two months, resulting in a $4,000 increase in revenue.
+- Delivered actionable recommendations based on the analysis, which led to a 45% growth in the client’s live streams, significantly boosting audience engagement and expanding their online presence.
+- Implemented data-driven strategies to optimize content performance, enhance audience retention, and ensure continuous improvement in viewership and revenue growth.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Job Title: Data Analyst Intern
 
 ### Company: Cognorise Infotech
 
-### Date: July - August 2024
+### Date: November 2023 - August 2024
 
 ### Location: India (Remote)
 
 ### Job Description:
-- Utilized Python (Pandas) to analyze large datasets, providing valuable insights into datasets containing millions of records.
-- Worked with real-world datasets sourced by the company, enhancing data analytics skills and contributing to quality improvement efforts.
-- Gained exposure to diverse datasets across multiple sectors, including private, public, and consumer industries, equipping me with a broad perspective on data analysis across various domains.
+-  Analyzed and visualized real-world datasets across diverse industries, providing actionable insights to drive business growth and improve operational efficiency.
+- Led a churn analysis project for a tour and travel company, leveraging predictive analytics to identify customers at risk of attrition. Successfully retained 76.5% of at-risk customers, reducing overall churn rates by 67% through strategic interventions and targeted retention efforts.
+- Provided data-driven insights to optimize marketing campaigns, resulting in a 15% improvement in outcomes and significantly enhancing customer engagement and interaction.
+- Recommended business intelligence strategies to enhance customer retention, utilizing predictive analytics and tailored marketing campaigns to address customer needs and preferences.
+- Proposed enhancements to the complaint resolution workflow, aimed at addressing customer grievances more effectively, leading to an expected 20% increase in both customer satisfaction and retention rates.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Skills 
-Python, Data visualization, SQL, Tableau, Power Bi, Microsoft Excel, Insights, Reports, Problem solver, critical thinker, Team goals oriented, collaborative, great communication and interpretation.
+Python, SQL (MySQL, SQL Server), Microsoft Excel, Data Visualization (Power BI, Tableau), Data Scraping (API, BeautifulSoup, Selenium), Microsoft Azure (Azure Data Lake, Azure Data Warehouse, Data Bricks), Google Cloud, AWS, IBM SPSS (Statistics, Mathematics).
 
 ## EXPERTISE TECHNOLOGIES
 ### Python:
@@ -96,7 +117,7 @@ Python, Data visualization, SQL, Tableau, Power Bi, Microsoft Excel, Insights, R
 ### Data Scraping:
 - Google Cloud Console: YouTube Data API
 - Python: googleapiclient
-
+- ETL Processes
 
 ## 📚 Education
 - School: Kaduna Polytechnic
@@ -107,6 +128,7 @@ Python, Data visualization, SQL, Tableau, Power Bi, Microsoft Excel, Insights, R
 ## 🗞️ Certification
 - Certificate of completion with credit in Data Anlysis from APPCLICK ACADEMY
 - Certification of Achievement from CONGNORISE INFOTECH (CR1T11CTF044)
+- Top Data Analyst Nominee 2025
 
 ## Contact Information
 ### 📧 Email address: zeechat143@gmail.com
